@@ -32,4 +32,7 @@ Navigate through the different visuals to analyze sales data.
 
 Data Source
 The data comes from car dealership's sales records.
+Included the excel file and also the dashboard formats used.
+
+Credits - Data Tutorials
 
